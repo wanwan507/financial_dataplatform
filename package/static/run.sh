@@ -1,0 +1,1 @@
+node r.js -o build.js && cd .. && python2.7 main.py

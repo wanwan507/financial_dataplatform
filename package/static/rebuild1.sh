@@ -1,0 +1,1 @@
+rm -rf lib/* && rm main-built.js && babel --presets react,es2015 --watch js --out-dir lib
